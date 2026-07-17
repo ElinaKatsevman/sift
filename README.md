@@ -12,7 +12,7 @@ Sift is a client-side web application designed to rescue home cooks and bakers f
 
 ### Live link
 
-https://ElinaKatsevman.github.io/sift/
+https://elinakatsevman.github.io/sift/
 
 ### How to use it
 
